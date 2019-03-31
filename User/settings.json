@@ -1,0 +1,12 @@
+{
+	// theme
+	"workbench.colorTheme": "Monokai Pro",
+	"workbench.iconTheme": "Monokai Pro Icons",
+	// font
+	"editor.fontFamily": "\"Fira Code\", Menlo, Monaco, 'Courier New', monospace",
+	"editor.fontLigatures": true,
+	"editor.renderWhitespace": "boundary",
+	"editor.fontSize": 13,
+	// misc
+	"editor.minimap.renderCharacters": false
+}
